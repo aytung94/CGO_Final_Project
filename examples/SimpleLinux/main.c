@@ -7,10 +7,20 @@
 //
 
 #include <stdio.h>
+#include <stdlib.h>
 
 #include <libjpcnn.h>
 
 #define NETWORK_FILE_NAME "jetpac.ntwk"
+
+int comp (const void * elem1, const void * elem2)
+{
+    int e1 = *((float*)elem1);
+    int e2 = *((float*)elem2);
+    if(e1 > e2) return 1;
+    if(e1 < e2) return -1;
+    return 0;
+}
 
 int main(int argc, const char * argv[]) {
 
@@ -25,7 +35,7 @@ int main(int argc, const char * argv[]) {
   int index;
 
   if (argc < 2) {
-    imageFileName = "nachos.jpg";
+    imageFileName = "image_0001.jpg";
   } else {
     imageFileName = argv[1];
   }
@@ -59,9 +69,26 @@ int main(int argc, const char * argv[]) {
     fprintf(stdout, "%d\t%f\t%s\n", index, predictionValue, label);
   }
 
+  float pV = predictions[0];
+  char* pL = 0;
+  for(index = 1; index < predictionsLength; index++)
+  {
+    if(pV < predictions[index])
+    {
+        pV = predictions[index];
+        pL = predictionsLabels[index];
+    }
+  }
+  fprintf(stdout, "MAX: \t%f\t%s\n", pV, pL);
+ 
 
+//  qsort(predictions, sizeof(predictions)/sizeof(*predictions), sizeof(*predictions), comp);
+//  for(index = 0; index < predictionsLength; index++)
+//  {
+//     fprintf(stdout, "%d\t%f\t%s\n", index, predictions[index], predictionsLabels[index]);     
+//  }
 
-  jpcnn_destroy_network(networkHandle);
+//  jpcnn_destroy_network(networkHandle);
 
   return 0;
 }

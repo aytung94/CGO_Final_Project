@@ -1,999 +1,1000 @@
-0	0.000026	unicycle
-1	0.000000	black swan
-2	0.000003	minibus
-3	0.000250	wool
-4	0.000003	trundle bed
-5	0.000046	garbage truck
-6	0.001315	dishrag
-7	0.000072	balloon
-8	0.000001	Bouvier des Flandres
+0	0.000003	unicycle
+1	0.000003	black swan
+2	0.000011	minibus
+3	0.000014	wool
+4	0.000000	trundle bed
+5	0.000000	garbage truck
+6	0.000001	dishrag
+7	0.000137	balloon
+8	0.000005	Bouvier des Flandres
 9	0.000000	otter
-10	0.000008	spaghetti squash
-11	0.000022	cocktail shaker
-12	0.000308	carpenter's kit
+10	0.000014	spaghetti squash
+11	0.000000	cocktail shaker
+12	0.000000	carpenter's kit
 13	0.000000	gar
-14	0.000002	lumbermill
-15	0.000014	bassinet
-16	0.000001	trowel
-17	0.000001	tree frog
-18	0.003439	lampshade
-19	0.000001	garden spider
+14	0.000000	lumbermill
+15	0.000000	bassinet
+16	0.000003	trowel
+17	0.000000	tree frog
+18	0.000017	lampshade
+19	0.000000	garden spider
 20	0.000000	ruddy turnstone
-21	0.000031	hipflask
-22	0.000016	apiary
-23	0.000001	wolf spider
-24	0.000022	planetarium
-25	0.000101	magnetic compass
+21	0.000001	hipflask
+22	0.000003	apiary
+23	0.000000	wolf spider
+24	0.000078	planetarium
+25	0.000000	magnetic compass
 26	0.000000	bustard
-27	0.000031	whistle
+27	0.000032	whistle
 28	0.000000	loggerhead
-29	0.000004	eggnog
-30	0.000001	Crock Pot
-31	0.000006	military uniform
-32	0.000231	typewriter keyboard
-33	0.000046	jean
-34	0.000116	cardigan
+29	0.000000	eggnog
+30	0.000000	Crock Pot
+31	0.000000	military uniform
+32	0.000001	typewriter keyboard
+33	0.000007	jean
+34	0.000003	cardigan
 35	0.000000	tiger beetle
-36	0.127663	prayer rug
-37	0.000021	quail
-38	0.000001	sea snake
-39	0.000002	tank
-40	0.000061	lighter
-41	0.000193	dome
-42	0.000008	moving van
+36	0.000000	prayer rug
+37	0.000000	quail
+38	0.000000	sea snake
+39	0.000001	tank
+40	0.000003	lighter
+41	0.000008	dome
+42	0.000003	moving van
 43	0.000001	triceratops
-44	0.000013	broom
-45	0.000005	jellyfish
+44	0.000004	broom
+45	0.000000	jellyfish
 46	0.000000	grey whale
-47	0.000000	chambered nautilus
+47	0.000002	chambered nautilus
 48	0.000000	macaque
-49	0.000110	steel drum
-50	0.000000	bullet train
-51	0.000013	yawl
-52	0.000080	horizontal bar
+49	0.000000	steel drum
+50	0.000081	bullet train
+51	0.000004	yawl
+52	0.000016	horizontal bar
 53	0.000000	tick
-54	0.000000	megalith
-55	0.000003	wok
-56	0.000003	fox squirrel
-57	0.000002	hare
+54	0.000005	megalith
+55	0.000001	wok
+56	0.000000	fox squirrel
+57	0.000001	hare
 58	0.000000	trilobite
 59	0.000000	harvestman
-60	0.000002	pudding
-61	0.000013	hair spray
-62	0.001059	bucket
-63	0.000024	French horn
-64	0.000020	sunglass
-65	0.000007	butcher shop
-66	0.000203	plastic bag
-67	0.000134	table lamp
+60	0.000000	pudding
+61	0.000000	hair spray
+62	0.000489	bucket
+63	0.000001	French horn
+64	0.000094	sunglass
+65	0.000000	butcher shop
+66	0.000054	plastic bag
+67	0.000005	table lamp
 68	0.000000	wombat
-69	0.000083	parking meter
-70	0.000011	recreational vehicle
-71	0.000016	safety razor
-72	0.000019	ringlet
-73	0.000441	perfume
-74	0.000005	nipple
-75	0.000001	home theater
-76	0.000097	modem
-77	0.000004	zebra
-78	0.000003	vine snake
-79	0.000066	chain mail
+69	0.000092	parking meter
+70	0.000007	recreational vehicle
+71	0.000000	safety razor
+72	0.000000	ringlet
+73	0.000001	perfume
+74	0.000001	nipple
+75	0.000000	home theater
+76	0.000006	modem
+77	0.000001	zebra
+78	0.000000	vine snake
+79	0.000002	chain mail
 80	0.000000	barracouta
-81	0.000009	eggbeater
+81	0.000001	eggbeater
 82	0.000000	thunder snake
-83	0.000009	radiator
-84	0.000014	banjo
-85	0.000000	ostrich
+83	0.000002	radiator
+84	0.000000	banjo
+85	0.000002	ostrich
 86	0.000000	brambling
-87	0.000043	obelisk
-88	0.000005	Granny Smith
-89	0.000049	tow truck
-90	0.040481	book jacket
-91	0.003586	shopping basket
-92	0.000088	school bus
-93	0.000001	barn spider
-94	0.000000	pelican
-95	0.000042	monastery
-96	0.000015	flute
-97	0.001598	kimono
-98	0.000001	chickadee
-99	0.000001	omelet pan
+87	0.000001	obelisk
+88	0.000000	Granny Smith
+89	0.000001	tow truck
+90	0.000001	book jacket
+91	0.000000	shopping basket
+92	0.000000	school bus
+93	0.000000	barn spider
+94	0.000125	pelican
+95	0.000000	monastery
+96	0.000000	flute
+97	0.000000	kimono
+98	0.000000	chickadee
+99	0.000000	omelet pan
 100	0.000001	starfish
-101	0.000158	miniskirt
-102	0.000002	promontory
+101	0.000023	miniskirt
+102	0.000001	promontory
 103	0.000000	partridge
-104	0.000010	ice cream
-105	0.000001	dam
-106	0.000093	chain saw
-107	0.000008	plate
-108	0.000001	ringneck snake
-109	0.000004	bobsled
-110	0.000004	speedboat
-111	0.000004	barbell
-112	0.000000	white wolf
+104	0.000000	ice cream
+105	0.000007	dam
+106	0.000000	chain saw
+107	0.000000	plate
+108	0.000000	ringneck snake
+109	0.000000	bobsled
+110	0.000001	speedboat
+111	0.000002	barbell
+112	0.000001	white wolf
 113	0.000000	Primus stove
-114	0.000182	trombone
-115	0.000005	milk can
-116	0.000007	plow
-117	0.000000	sea urchin
+114	0.000000	trombone
+115	0.000025	milk can
+116	0.000019	plow
+117	0.000018	sea urchin
 118	0.000000	king snake
-119	0.000002	grasshopper
-120	0.000033	screwdriver
-121	0.000000	dough
-122	0.000001	polecat
-123	0.000069	wine bottle
+119	0.000000	grasshopper
+120	0.000000	screwdriver
+121	0.000001	dough
+122	0.000004	polecat
+123	0.000001	wine bottle
 124	0.000000	hartebeest
-125	0.000002	crayfish
-126	0.000014	soup bowl
-127	0.000069	restaurant
-128	0.000003	daisy
+125	0.000000	crayfish
+126	0.000001	soup bowl
+127	0.000000	restaurant
+128	0.000000	daisy
 129	0.000000	three-toed sloth
-130	0.000009	ballpoint
-131	0.000027	tricycle
+130	0.000003	ballpoint
+131	0.000002	tricycle
 132	0.000000	lion
-133	0.000000	sorrel
-134	0.000006	bookcase
-135	0.000056	harvester
-136	0.000393	oscilloscope
-137	0.000001	mashed potato
-138	0.000005	medicine chest
-139	0.000043	punching bag
-140	0.004464	handkerchief
-141	0.000000	earthstar
+133	0.000001	sorrel
+134	0.000000	bookcase
+135	0.000002	harvester
+136	0.000000	oscilloscope
+137	0.000000	mashed potato
+138	0.000000	medicine chest
+139	0.000005	punching bag
+140	0.000028	handkerchief
+141	0.000001	earthstar
 142	0.000000	Australian terrier
-143	0.000003	curling iron
+143	0.000000	curling iron
 144	0.000000	gyromitra
-145	0.000003	howler monkey
+145	0.000000	howler monkey
 146	0.000001	valley
-147	0.000004	clog
-148	0.000029	cornet
-149	0.000001	mixing bowl
-150	0.000000	king penguin
-151	0.018856	mailbag
+147	0.000114	clog
+148	0.000001	cornet
+149	0.000002	mixing bowl
+150	0.000013	king penguin
+151	0.000004	mailbag
 152	0.000000	brown bear
-153	0.000002	shredder
-154	0.000477	freight car
-155	0.000007	circular saw
-156	0.000127	oboe
-157	0.000672	birdhouse
-158	0.000000	anemone fish
-159	0.000012	trailer truck
-160	0.000012	car wheel
-161	0.000133	suspension bridge
-162	0.000002	hog
-163	0.000050	candle
+153	0.000006	shredder
+154	0.000011	freight car
+155	0.000004	circular saw
+156	0.000000	oboe
+157	0.000045	birdhouse
+158	0.000028	anemone fish
+159	0.000003	trailer truck
+160	0.000031	car wheel
+161	0.000002	suspension bridge
+162	0.000033	hog
+163	0.000003	candle
 164	0.000000	badger
-165	0.000003	lab coat
-166	0.000002	frilled lizard
-167	0.000018	totem pole
+165	0.000000	lab coat
+166	0.000000	frilled lizard
+167	0.000000	totem pole
 168	0.000000	leafhopper
-169	0.000270	safety pin
-170	0.000027	ice lolly
-171	0.000102	pitcher
-172	0.000002	green lizard
-173	0.000001	centipede
-174	0.000013	bolo tie
-175	0.000009	Polaroid camera
-176	0.000101	barometer
+169	0.000016	safety pin
+170	0.000008	ice lolly
+171	0.000025	pitcher
+172	0.000000	green lizard
+173	0.000000	centipede
+174	0.000000	bolo tie
+175	0.000027	Polaroid camera
+176	0.000000	barometer
 177	0.000000	snow leopard
-178	0.000016	orange
+178	0.000000	orange
 179	0.000000	axolotl
 180	0.000000	bulbul
-181	0.000028	quill
-182	0.000021	vault
-183	0.000005	guinea pig
-184	0.000055	coil
-185	0.000024	plunger
-186	0.000003	lacewing
-187	0.000000	spoonbill
-188	0.009947	binder
-189	0.000471	brassiere
-190	0.000028	seashore
+181	0.000001	quill
+182	0.000000	vault
+183	0.000001	guinea pig
+184	0.000002	coil
+185	0.000012	plunger
+186	0.000000	lacewing
+187	0.000023	spoonbill
+188	0.000001	binder
+189	0.000218	brassiere
+190	0.000035	seashore
 191	0.000000	European gallinule
-192	0.000287	fire engine
-193	0.000872	quilt
-194	0.000535	pick
-195	0.000001	Newtonian telescope
-196	0.000023	rifle
-197	0.000057	switch
-198	0.000000	gazelle
-199	0.000013	lorikeet
-200	0.113155	pillow
-201	0.000574	bookshop
-202	0.000000	drake
-203	0.000056	adjustable wrench
-204	0.000005	cheetah
-205	0.000001	thatch
+192	0.000000	fire engine
+193	0.000000	quilt
+194	0.000016	pick
+195	0.000118	Newtonian telescope
+196	0.000001	rifle
+197	0.000004	switch
+198	0.000001	gazelle
+199	0.000000	lorikeet
+200	0.000031	pillow
+201	0.000000	bookshop
+202	0.000016	drake
+203	0.000000	adjustable wrench
+204	0.000000	cheetah
+205	0.000003	thatch
 206	0.000000	indri
-207	0.000018	hot plate
-208	0.000002	indigo bunting
-209	0.000034	computer keyboard
-210	0.000001	paddle
-211	0.000166	shield
-212	0.000002	fig
-213	0.000003	Dungeness crab
+207	0.000001	hot plate
+208	0.000000	indigo bunting
+209	0.000041	computer keyboard
+210	0.000034	paddle
+211	0.000007	shield
+212	0.000000	fig
+213	0.000000	Dungeness crab
 214	0.000000	capuchin
-215	0.001655	hard disc
-216	0.000051	harp
-217	0.000002	odometer
-218	0.000040	grille
+215	0.000001	hard disc
+216	0.000000	harp
+217	0.000000	odometer
+218	0.000064	grille
 219	0.000001	Siamese cat
-220	0.000054	soccer ball
-221	0.000001	Pekinese
-222	0.000006	manometer
-223	0.000252	accordion
-224	0.000007	cowboy hat
-225	0.000019	sandal
-226	0.000002	horse cart
-227	0.000002	pickup
-228	0.000636	sombrero
-229	0.000029	holster
-230	0.000001	hen-of-the-woods
-231	0.000007	rain barrel
-232	0.000090	velvet
-233	0.000001	convertible
-234	0.000007	submarine
+220	0.969888	soccer ball
+221	0.000000	Pekinese
+222	0.000000	manometer
+223	0.000000	accordion
+224	0.000153	cowboy hat
+225	0.000015	sandal
+226	0.000000	horse cart
+227	0.000052	pickup
+228	0.000001	sombrero
+229	0.000001	holster
+230	0.000000	hen-of-the-woods
+231	0.000073	rain barrel
+232	0.000001	velvet
+233	0.000014	convertible
+234	0.000006	submarine
 235	0.000000	sloth bear
-236	0.000039	saltshaker
-237	0.000007	football helmet
-238	0.000001	spotted salamander
-239	0.000001	soap dispenser
-240	0.000005	electric range
-241	0.000001	golfcart
-242	0.000006	spiny lobster
-243	0.000002	airship
-244	0.000008	washbasin
-245	0.000051	necklace
-246	0.000000	bison
-247	0.000068	bath towel
-248	0.000037	cassette player
+236	0.000019	saltshaker
+237	0.000102	football helmet
+238	0.000000	spotted salamander
+239	0.000011	soap dispenser
+240	0.000000	electric range
+241	0.000004	golfcart
+242	0.000000	spiny lobster
+243	0.000242	airship
+244	0.000002	washbasin
+245	0.000000	necklace
+246	0.000001	bison
+247	0.000001	bath towel
+248	0.000001	cassette player
 249	0.000000	eel
-250	0.000048	wardrobe
-251	0.000001	orangutan
+250	0.000000	wardrobe
+251	0.000000	orangutan
 252	0.000000	water ouzel
-253	0.000001	mud turtle
-254	0.000208	triumphal arch
-255	0.000004	yurt
-256	0.000002	space shuttle
-257	0.000001	standard poodle
-258	0.000001	green snake
-259	0.000111	stopwatch
-260	0.000005	robin
+253	0.000000	mud turtle
+254	0.000000	triumphal arch
+255	0.000008	yurt
+256	0.000017	space shuttle
+257	0.000054	standard poodle
+258	0.000000	green snake
+259	0.000000	stopwatch
+260	0.000000	robin
 261	0.000000	yellow lady's slipper
-262	0.000005	running shoe
-263	0.000006	patio
+262	0.000019	running shoe
+263	0.000001	patio
 264	0.000001	cliff
 265	0.000000	staghorn coral
-266	0.000000	ox
-267	0.000107	toaster
-268	0.000071	bonnet
+266	0.000002	ox
+267	0.000006	toaster
+268	0.000007	bonnet
 269	0.000001	Doberman
-270	0.000001	cardoon
-271	0.000007	catamaran
-272	0.000019	hand calculator
-273	0.000001	prairie chicken
+270	0.000000	cardoon
+271	0.000021	catamaran
+272	0.000001	hand calculator
+273	0.000000	prairie chicken
 274	0.000000	banded gecko
-275	0.000053	corn
-276	0.000005	pomegranate
-277	0.000029	beer glass
-278	0.000006	wing
-279	0.000878	confectionery
-280	0.000001	lens cap
-281	0.000000	wallaby
-282	0.005790	wall clock
-283	0.000046	strawberry
-284	0.000000	boxer
-285	0.000038	pirate
-286	0.000022	chime
-287	0.000007	croquet ball
-288	0.000000	airliner
-289	0.000002	white stork
-290	0.000010	bee
+275	0.000020	corn
+276	0.000000	pomegranate
+277	0.000000	beer glass
+278	0.000080	wing
+279	0.000000	confectionery
+280	0.000009	lens cap
+281	0.000035	wallaby
+282	0.000000	wall clock
+283	0.000000	strawberry
+284	0.000024	boxer
+285	0.000000	pirate
+286	0.000002	chime
+287	0.000070	croquet ball
+288	0.000041	airliner
+289	0.000004	white stork
+290	0.000000	bee
 291	0.000000	European swift
-292	0.000050	paintbrush
-293	0.000002	waffle iron
+292	0.000001	paintbrush
+293	0.000000	waffle iron
 294	0.000000	coyote
-295	0.000054	tobacco shop
-296	0.000689	barn
-297	0.000067	cellular telephone
-298	0.000517	money belt
-299	0.000037	garrison cap
+295	0.000000	tobacco shop
+296	0.000002	barn
+297	0.000010	cellular telephone
+298	0.000003	money belt
+299	0.000001	garrison cap
 300	0.000000	Irish setter
 301	0.000000	Gordon setter
-302	0.000009	radio telescope
+302	0.000012	radio telescope
 303	0.000003	cartwheel
-304	0.000004	meat thermometer
-305	0.000004	water jug
-306	0.000001	rock crab
+304	0.000000	meat thermometer
+305	0.000196	water jug
+306	0.000000	rock crab
 307	0.000000	flamingo
-308	0.000023	ear
-309	0.000000	American egret
-310	0.001115	church
-311	0.000001	Gila monster
-312	0.010576	tray
-313	0.000361	polo shirt
-314	0.000024	water bottle
-315	0.000001	suit
-316	0.000001	French loaf
-317	0.000027	bathing cap
-318	0.014146	throne
-319	0.000003	dogsled
+308	0.000001	ear
+309	0.002948	American egret
+310	0.000015	church
+311	0.000000	Gila monster
+312	0.000000	tray
+313	0.000006	polo shirt
+314	0.000044	water bottle
+315	0.000012	suit
+316	0.000000	French loaf
+317	0.000075	bathing cap
+318	0.000000	throne
+319	0.000000	dogsled
 320	0.000000	stinkhorn
-321	0.000048	paddlewheel
-322	0.000000	projectile
-323	0.000680	rapeseed
-324	0.000001	conch
-325	0.000057	cradle
+321	0.000000	paddlewheel
+322	0.000113	projectile
+323	0.001122	rapeseed
+324	0.000002	conch
+325	0.000000	cradle
 326	0.000001	corgi
 327	0.000000	hacksaw
-328	0.000002	acorn squash
-329	0.000001	mixing faucet
+328	0.000000	acorn squash
+329	0.000000	mixing faucet
 330	0.000000	gibbon
-331	0.000001	Great Dane
-332	0.000000	bathtub
+331	0.000020	Great Dane
+332	0.000015	bathtub
 333	0.000000	coucal
-334	0.000059	barrow
+334	0.000054	barrow
 335	0.000000	trifle
 336	0.000000	sea cucumber
 337	0.000000	operating table
-338	0.000054	worm fence
-339	0.000003	measuring cup
-340	0.000000	bighorn
-341	0.000009	vacuum
-342	0.000001	zucchini
-343	0.000001	mobile home
+338	0.000005	worm fence
+339	0.000006	measuring cup
+340	0.000001	bighorn
+341	0.000014	vacuum
+342	0.000002	zucchini
+343	0.000002	mobile home
 344	0.000000	Komodo dragon
-345	0.000041	dial telephone
-346	0.000001	common iguana
-347	0.000003	shaver
-348	0.032362	bib
+345	0.000000	dial telephone
+346	0.000000	common iguana
+347	0.000004	shaver
+348	0.000010	bib
 349	0.000000	hermit crab
-350	0.000097	stole
-351	0.000049	park bench
-352	0.000001	junco
-353	0.000032	fountain
-354	0.000032	crib
-355	0.000003	switchblade
-356	0.000021	steel arch bridge
-357	0.000007	gondola
-358	0.001575	mailbox
-359	0.000026	yellowhammer
-360	0.000003	remote control
-361	0.000000	colobus
-362	0.000008	power drill
-363	0.000000	goose
+350	0.000009	stole
+351	0.000005	park bench
+352	0.000000	junco
+353	0.000001	fountain
+354	0.000000	crib
+355	0.000000	switchblade
+356	0.000001	steel arch bridge
+357	0.000000	gondola
+358	0.000344	mailbox
+359	0.000000	yellowhammer
+360	0.000005	remote control
+361	0.000005	colobus
+362	0.000002	power drill
+363	0.000535	goose
 364	0.000000	titi
-365	0.000008	hamster
-366	0.011066	apron
-367	0.000025	red wine
-368	0.000000	Brittany spaniel
+365	0.000001	hamster
+366	0.000002	apron
+367	0.000000	red wine
+368	0.000001	Brittany spaniel
 369	0.000000	kit fox
-370	0.000005	admiral
-371	0.000053	spotlight
+370	0.000000	admiral
+371	0.000060	spotlight
 372	0.000000	guenon
-373	0.094812	wallet
-374	0.000001	African grey
+373	0.000010	wallet
+374	0.000000	African grey
 375	0.000000	opossum rat
-376	0.002658	theater curtain
-377	0.000004	mantis
-378	0.000377	padlock
-379	0.000003	Dutch oven
-380	0.000000	hen
-381	0.000256	traffic light
+376	0.000000	theater curtain
+377	0.000000	mantis
+378	0.000000	padlock
+379	0.000000	Dutch oven
+380	0.000001	hen
+381	0.000003	traffic light
 382	0.000000	langur
-383	0.000068	sulphur butterfly
-384	0.000827	slot
-385	0.000003	scanner
-386	0.000048	school newspaper
+383	0.000000	sulphur butterfly
+384	0.000000	slot
+385	0.000042	scanner
+386	0.000000	school newspaper
 387	0.000000	tabby
-388	0.000005	American chameleon
-389	0.000000	photocopier
-390	0.013218	pencil box
-391	0.000016	maillot
-392	0.000035	hoopskirt
-393	0.000041	microphone
-394	0.000020	greenhouse
-395	0.000014	shoji
-396	0.000014	reflex camera
-397	0.000000	albatross
-398	0.000001	limousine
-399	0.000047	solar dish
+388	0.000000	American chameleon
+389	0.000001	photocopier
+390	0.000003	pencil box
+391	0.000251	maillot
+392	0.000003	hoopskirt
+393	0.000011	microphone
+394	0.000021	greenhouse
+395	0.000000	shoji
+396	0.000000	reflex camera
+397	0.001071	albatross
+398	0.000006	limousine
+399	0.000014	solar dish
 400	0.000000	tench
-401	0.000032	cleaver
-402	0.000005	china cabinet
-403	0.000026	collar
-404	0.000000	sea anemone
+401	0.000001	cleaver
+402	0.000000	china cabinet
+403	0.000001	collar
+404	0.000001	sea anemone
 405	0.000000	isopod
-406	0.000002	gown
-407	0.000167	sunglasses
-408	0.000045	letter opener
-409	0.000490	face powder
+406	0.000003	gown
+407	0.000045	sunglasses
+408	0.000000	letter opener
+409	0.000000	face powder
 410	0.000000	red fox
 411	0.000002	carving knife
-412	0.000062	tractor
-413	0.000001	Loafer
-414	0.000067	four-poster
-415	0.000011	go-kart
+412	0.000001	tractor
+413	0.000023	Loafer
+414	0.000000	four-poster
+415	0.000000	go-kart
 416	0.000000	acorn
-417	0.000001	Egyptian cat
-418	0.000001	headset
-419	0.000006	schooner
-420	0.000002	pickelhaube
+417	0.000000	Egyptian cat
+418	0.000003	headset
+419	0.000020	schooner
+420	0.000000	pickelhaube
 421	0.000000	cliff dwelling
-422	0.000040	volleyball
-423	0.000003	cabbage butterfly
-424	0.000006	nematode
-425	0.000119	khimar
-426	0.000102	window shade
+422	0.000056	volleyball
+423	0.000000	cabbage butterfly
+424	0.000000	nematode
+425	0.000012	khimar
+426	0.000003	window shade
 427	0.000000	redbone
-428	0.000004	streetcar
-429	0.000001	ground beetle
-430	0.000087	chiffonier
-431	0.001051	street sign
-432	0.000007	toilet tissue
-433	0.000017	dishwasher
-434	0.000017	balance beam
+428	0.000000	streetcar
+429	0.000000	ground beetle
+430	0.000000	chiffonier
+431	0.000007	street sign
+432	0.000294	toilet tissue
+433	0.000002	dishwasher
+434	0.000012	balance beam
 435	0.000000	black grouse
 436	0.000000	timber wolf
-437	0.000072	mouse
-438	0.000006	scuba diver
-439	0.000085	metronome
-440	0.000032	combination lock
-441	0.000270	panpipe
-442	0.000003	gasmask
-443	0.000171	marimba
-444	0.000648	drum
-445	0.000011	ballplayer
+437	0.000043	mouse
+438	0.000010	scuba diver
+439	0.000000	metronome
+440	0.000000	combination lock
+441	0.000000	panpipe
+442	0.000012	gasmask
+443	0.000000	marimba
+444	0.000001	drum
+445	0.000001	ballplayer
 446	0.000000	bee eater
 447	0.000000	redshank
-448	0.000001	mushroom
-449	0.000048	ski mask
-450	0.000048	hair slide
-451	0.000000	peacock
-452	0.000001	American lobster
-453	0.000004	taboret
-454	0.000002	carbonara
-455	0.000000	dugong
+448	0.000007	mushroom
+449	0.000039	ski mask
+450	0.000000	hair slide
+451	0.000013	peacock
+452	0.000000	American lobster
+453	0.000012	taboret
+454	0.000000	carbonara
+455	0.000029	dugong
 456	0.000000	marmoset
-457	0.000016	barber chair
-458	0.000100	bicycle-built-for-two
-459	0.000006	Indian elephant
+457	0.000000	barber chair
+458	0.000000	bicycle-built-for-two
+459	0.000002	Indian elephant
 460	0.000000	wild boar
-461	0.000003	euphonium
-462	0.000000	hammerhead
-463	0.000009	nail
-464	0.000134	diaper
-465	0.000001	mortar
-466	0.000000	assault rifle
-467	0.000005	cockroach
-468	0.000638	notebook
-469	0.000001	trolleybus
-470	0.000022	cider vinegar
-471	0.000001	snowplow
-472	0.000012	stove
-473	0.000003	overskirt
-474	0.000040	cup
+461	0.000001	euphonium
+462	0.000223	hammerhead
+463	0.000001	nail
+464	0.000030	diaper
+465	0.000008	mortar
+466	0.000002	assault rifle
+467	0.000000	cockroach
+468	0.000057	notebook
+469	0.000000	trolleybus
+470	0.000000	cider vinegar
+471	0.000000	snowplow
+472	0.000000	stove
+473	0.000000	overskirt
+474	0.000100	cup
 475	0.000001	police van
 476	0.000001	wig
-477	0.000001	bell pepper
+477	0.000000	bell pepper
 478	0.000000	Scottish deerhound
-479	0.000003	motor scooter
+479	0.000026	motor scooter
 480	0.000000	impala
-481	0.004716	analog clock
-482	0.000323	honeycomb
-483	0.000015	death's-head moth
-484	0.000009	stiletto
-485	0.000004	moped
-486	0.000003	nailfile
-487	0.000000	Newfoundland
-488	0.000005	maypole
-489	0.012874	packet
-490	0.000001	box turtle
-491	0.000000	coral fungus
-492	0.000001	stingray
-493	0.000018	flash
+481	0.000001	analog clock
+482	0.000006	honeycomb
+483	0.000000	death's-head moth
+484	0.000000	stiletto
+485	0.000002	moped
+486	0.000000	nailfile
+487	0.000053	Newfoundland
+488	0.000000	maypole
+489	0.000002	packet
+490	0.000000	box turtle
+491	0.000002	coral fungus
+492	0.000009	stingray
+493	0.000024	flash
 494	0.000000	chiton
-495	0.000017	thresher
-496	0.000000	baboon
-497	0.000009	hotdog
-498	0.000227	grand piano
-499	0.000346	stretcher
-500	0.000101	iron
+495	0.000000	thresher
+496	0.000001	baboon
+497	0.000000	hotdog
+498	0.000000	grand piano
+499	0.000001	stretcher
+500	0.000008	iron
 501	0.000000	African hunting dog
 502	0.000000	hot pot
-503	0.000071	window screen
-504	0.000142	desk
+503	0.000001	window screen
+504	0.000002	desk
 505	0.000000	bald eagle
-506	0.000006	coffeepot
+506	0.000075	coffeepot
 507	0.000000	beaver
-508	0.000000	black stork
-509	0.000282	crate
-510	0.000025	feather boa
-511	0.000062	violin
-512	0.000032	bubble
-513	0.000042	studio couch
-514	0.000001	motorized wheelchair
-515	0.000004	ladle
-516	0.000004	great grey owl
+508	0.000014	black stork
+509	0.000001	crate
+510	0.000000	feather boa
+511	0.000000	violin
+512	0.000012	bubble
+513	0.000001	studio couch
+514	0.000000	motorized wheelchair
+515	0.000001	ladle
+516	0.000000	great grey owl
 517	0.000000	ruffed grouse
-518	0.000000	dumbbell
-519	0.000341	gong
-520	0.000060	cello
-521	0.000014	snowmobile
-522	0.000011	Model T
-523	0.000145	picket fence
-524	0.000142	thimble
-525	0.000256	brass
+518	0.000079	dumbbell
+519	0.000001	gong
+520	0.000000	cello
+521	0.000000	snowmobile
+522	0.000001	Model T
+523	0.000222	picket fence
+524	0.000001	thimble
+525	0.000004	brass
 526	0.000002	microwave
-527	0.000011	printer
-528	0.000000	sea lion
-529	0.000038	steam locomotive
-530	0.000009	crutch
+527	0.000005	printer
+528	0.000002	sea lion
+529	0.000000	steam locomotive
+530	0.000008	crutch
 531	0.000000	proboscis monkey
 532	0.000001	flatworm
-533	0.000000	ram
-534	0.000125	mess jacket
-535	0.000002	sliding door
-536	0.000024	spatula
-537	0.000002	tiger
-538	0.000031	viaduct
-539	0.000026	cab
-540	0.000000	cowrie
-541	0.000002	amphibian
-542	0.000049	mitten
-543	0.000223	monitor
-544	0.000010	spider web
-545	0.000033	shoe shop
-546	0.000028	torch
-547	0.000009	scabbard
-548	0.000002	chimpanzee
-549	0.000006	hand-held computer
-550	0.000106	Band Aid
-551	0.000002	weevil
-552	0.000003	diamondback
-553	0.000007	custard apple
-554	0.000016	mortarboard
-555	0.000513	radio
-556	0.008395	envelope
-557	0.000004	chocolate sauce
-558	0.000001	turnstile
-559	0.000141	Christmas stocking
-560	0.000004	buckeye
-561	0.000001	cricket
-562	0.000183	mousetrap
-563	0.000007	lycaenid
-564	0.000473	joystick
-565	0.000002	butternut squash
-566	0.000150	pencil sharpener
-567	0.000731	desktop computer
-568	0.000083	pay-phone
-569	0.000011	oil filter
-570	0.000002	cucumber
-571	0.000008	oilskin
-572	0.000396	swing
-573	0.000003	mascara
-574	0.000009	pinion
-575	0.000003	fireboat
+533	0.000021	ram
+534	0.000000	mess jacket
+535	0.000001	sliding door
+536	0.000004	spatula
+537	0.000000	tiger
+538	0.000014	viaduct
+539	0.000003	cab
+540	0.000002	cowrie
+541	0.000000	amphibian
+542	0.000006	mitten
+543	0.000073	monitor
+544	0.000000	spider web
+545	0.000000	shoe shop
+546	0.000004	torch
+547	0.000000	scabbard
+548	0.000000	chimpanzee
+549	0.000001	hand-held computer
+550	0.000026	Band Aid
+551	0.000000	weevil
+552	0.000000	diamondback
+553	0.000000	custard apple
+554	0.000019	mortarboard
+555	0.000007	radio
+556	0.000008	envelope
+557	0.000000	chocolate sauce
+558	0.000037	turnstile
+559	0.000000	Christmas stocking
+560	0.000000	buckeye
+561	0.000000	cricket
+562	0.000001	mousetrap
+563	0.000000	lycaenid
+564	0.000009	joystick
+565	0.000007	butternut squash
+566	0.000001	pencil sharpener
+567	0.000003	desktop computer
+568	0.000008	pay-phone
+569	0.000000	oil filter
+570	0.000000	cucumber
+571	0.000000	oilskin
+572	0.000052	swing
+573	0.000000	mascara
+574	0.000001	pinion
+575	0.000000	fireboat
 576	0.000000	mink
-577	0.000005	sulphur-crested cockatoo
-578	0.000001	agaric
-579	0.000024	neck brace
+577	0.000103	sulphur-crested cockatoo
+578	0.000000	agaric
+579	0.000029	neck brace
 580	0.000000	mongoose
-581	0.000022	revolver
-582	0.000010	drilling platform
-583	0.000114	triangle
-584	0.000001	terrapin
-585	0.000001	artichoke
-586	0.000047	hatchet
+581	0.000013	revolver
+582	0.000000	drilling platform
+583	0.000000	triangle
+584	0.000000	terrapin
+585	0.000000	artichoke
+586	0.000033	hatchet
 587	0.000000	wing tip
 588	0.000000	lesser panda
-589	0.000000	skunk
-590	0.000015	pineapple
-591	0.000004	spinning rod
-592	0.000028	meat loaf
+589	0.000001	skunk
+590	0.000000	pineapple
+591	0.000005	spinning rod
+592	0.000000	meat loaf
 593	0.000000	jaguar
-594	0.000163	barbershop
-595	0.000000	eider
-596	0.000001	lionfish
-597	0.000001	German shepherd
-598	0.000002	hand blower
-599	0.000043	Windsor tie
-600	0.000594	sewing machine
+594	0.000000	barbershop
+595	0.003595	eider
+596	0.000000	lionfish
+597	0.000000	German shepherd
+598	0.000066	hand blower
+599	0.000001	Windsor tie
+600	0.000001	sewing machine
 601	0.000001	American black bear
 602	0.000000	agama
-603	0.000075	drumstick
-604	0.000015	clipper
+603	0.000004	drumstick
+604	0.000001	clipper
 605	0.000000	tarantula
-606	0.000002	Morris chair
-607	0.000001	scorpion
-608	0.000001	fly
-609	0.000041	pier
-610	0.000091	screen
+606	0.000000	Morris chair
+607	0.000000	scorpion
+608	0.000000	fly
+609	0.000004	pier
+610	0.000292	screen
 611	0.000000	African crocodile
-612	0.000006	bow
+612	0.000002	bow
 613	0.000000	potpie
-614	0.000119	rock beauty
-615	0.000000	brain coral
-616	0.000018	lipstick
-617	0.000422	stupa
-618	0.000001	leopard
-619	0.000058	acoustic guitar
-620	0.000034	shovel
-621	0.000305	bakery
-622	0.000344	carousel
-623	0.000121	cap opener
-624	0.000126	ocarina
-625	0.000000	water buffalo
-626	0.001876	menu
-627	0.000842	buckle
-628	0.000002	boathouse
+614	0.000000	rock beauty
+615	0.000006	brain coral
+616	0.000001	lipstick
+617	0.000001	stupa
+618	0.000000	leopard
+619	0.000008	acoustic guitar
+620	0.000004	shovel
+621	0.000000	bakery
+622	0.000000	carousel
+623	0.000000	cap opener
+624	0.000000	ocarina
+625	0.000005	water buffalo
+626	0.000000	menu
+627	0.000007	buckle
+628	0.000007	boathouse
 629	0.000000	koala
-630	0.000289	coffee mug
-631	0.000001	wood rabbit
+630	0.000110	coffee mug
+631	0.000004	wood rabbit
 632	0.000000	red wolf
 633	0.000000	water snake
-634	0.000521	scoreboard
-635	0.000010	bikini
-636	0.000022	dock
+634	0.000000	scoreboard
+635	0.000028	bikini
+636	0.000001	dock
 637	0.000000	weasel
 638	0.000000	black-footed ferret
-639	0.000001	killer whale
-640	0.000008	ambulance
+639	0.000293	killer whale
+640	0.000005	ambulance
 641	0.000000	common newt
-642	0.000812	altar
-643	0.000005	boa constrictor
-644	0.000006	caldron
-645	0.001763	crane
-646	0.000059	folding chair
-647	0.000032	groom
-648	0.000002	rock python
-649	0.000015	cloud
-650	0.000005	plane
-651	0.000008	pill bottle
-652	0.000005	electric ray
-653	0.000001	Persian cat
-654	0.000011	wooden spoon
+642	0.000000	altar
+643	0.000000	boa constrictor
+644	0.000001	caldron
+645	0.000000	crane
+646	0.000057	folding chair
+647	0.000016	groom
+648	0.000000	rock python
+649	0.000010	cloud
+650	0.000000	plane
+651	0.000013	pill bottle
+652	0.000002	electric ray
+653	0.000000	Persian cat
+654	0.000001	wooden spoon
 655	0.000000	red-backed sandpiper
-656	0.000024	pedestal
-657	0.000035	fire bell
-658	0.000007	library
-659	0.000341	shopping cart
-660	0.000004	beach wagon
-661	0.000030	space bar
-662	0.000000	ice bear
-663	0.000004	rugby ball
-664	0.000527	pendulum clock
+656	0.000001	pedestal
+657	0.000001	fire bell
+658	0.000000	library
+659	0.000003	shopping cart
+660	0.000010	beach wagon
+661	0.000001	space bar
+662	0.000001	ice bear
+663	0.002539	rugby ball
+664	0.000000	pendulum clock
 665	0.000000	geyser
 666	0.000000	stone wall
-667	0.000005	oxygen mask
-668	0.000004	cannon
-669	0.000001	giant panda
-670	0.000037	water tower
-671	0.000211	mosque
-672	0.000006	snorkel
-673	0.000009	canoe
+667	0.000001	oxygen mask
+668	0.000074	cannon
+669	0.000026	giant panda
+670	0.000131	water tower
+671	0.000001	mosque
+672	0.000032	snorkel
+673	0.000019	canoe
 674	0.000000	lynx
-675	0.000027	flagpole
-676	0.000035	plate rack
+675	0.000000	flagpole
+676	0.000001	plate rack
 677	0.000000	nest
-678	0.000097	poncho
-679	0.000363	ashcan
-680	0.000000	Arctic fox
-681	0.000012	bassoon
-682	0.000000	Staffordshire bullterrier
-683	0.000001	sea slug
-684	0.000001	greyhound
-685	0.000028	beacon
+678	0.000008	poncho
+679	0.000088	ashcan
+680	0.000003	Arctic fox
+681	0.000000	bassoon
+682	0.000049	Staffordshire bullterrier
+683	0.000000	sea slug
+684	0.000032	greyhound
+685	0.000026	beacon
 686	0.000000	kite
-687	0.000001	bullfrog
-688	0.002480	harmonica
-689	0.000143	canteen
-690	0.000005	space heater
-691	0.000051	swab
-692	0.000036	racer
-693	0.000015	mosquito net
-694	0.000001	consomme
-695	0.000011	tripod
-696	0.000012	straight razor
-697	0.000012	music stool
-698	0.000667	racket
-699	0.000003	medicine ball
-700	0.000003	sock
+687	0.000000	bullfrog
+688	0.000000	harmonica
+689	0.000001	canteen
+690	0.000003	space heater
+691	0.000004	swab
+692	0.000007	racer
+693	0.000000	mosquito net
+694	0.000000	consomme
+695	0.000006	tripod
+696	0.000000	straight razor
+697	0.000000	music stool
+698	0.000002	racket
+699	0.000065	medicine ball
+700	0.000021	sock
 701	0.000001	vizsla
 702	0.000001	English setter
-703	0.000346	jinrikisha
+703	0.000000	jinrikisha
 704	0.000000	American coot
-705	0.000560	stage
+705	0.000000	stage
 706	0.000000	hornbill
-707	0.004306	cinema
+707	0.000000	cinema
 708	0.000001	mattock
-709	0.000000	little blue heron
-710	0.000026	chain
-711	0.000021	muzzle
+709	0.000033	little blue heron
+710	0.000001	chain
+711	0.000020	muzzle
 712	0.000000	alligator lizard
-713	0.000002	alp
-714	0.000001	house finch
-715	0.000042	rocking chair
-716	0.000019	lotion
+713	0.000010	alp
+714	0.000000	house finch
+715	0.000004	rocking chair
+716	0.000014	lotion
 717	0.000001	jay
-718	0.000007	swivel chair
-719	0.007016	bag
-720	0.000002	beaker
-721	0.000000	missile
-722	0.000027	cloak
-723	0.000044	refrigerator
-724	0.000010	container ship
-725	0.000954	vestment
-726	0.000025	stethoscope
-727	0.000010	ping-pong ball
-728	0.000261	iPod
-729	0.000003	broccoli
-730	0.000326	sundial
-731	0.000012	guacamole
-732	0.000613	sax
-733	0.000001	rotisserie
-734	0.000008	seat belt
+718	0.000015	swivel chair
+719	0.000024	bag
+720	0.000001	beaker
+721	0.000040	missile
+722	0.000011	cloak
+723	0.000002	refrigerator
+724	0.000000	container ship
+725	0.000000	vestment
+726	0.000000	stethoscope
+727	0.000166	ping-pong ball
+728	0.000702	iPod
+729	0.000001	broccoli
+730	0.000003	sundial
+731	0.000000	guacamole
+732	0.000000	sax
+733	0.000000	rotisserie
+734	0.000024	seat belt
 735	0.000000	griffon
-736	0.000335	upright
-737	0.000332	slide rule
+736	0.000000	upright
+737	0.000001	slide rule
 738	0.000001	flat bench
-739	0.000227	jack-o'-lantern
+739	0.000000	jack-o'-lantern
 740	0.000000	electric locomotive
-741	0.000024	tuning fork
-742	0.000002	passenger car
-743	0.009131	backpack
-744	0.000017	vending machine
-745	0.000064	pop bottle
-746	0.000152	mountain bike
-747	0.000001	bolete
+741	0.000002	tuning fork
+742	0.000005	passenger car
+743	0.000012	backpack
+744	0.000000	vending machine
+745	0.000000	pop bottle
+746	0.000000	mountain bike
+747	0.000000	bolete
 748	0.000000	porcupine
-749	0.000097	puck
-750	0.000003	jeep
+749	0.000008	puck
+750	0.000001	jeep
 751	0.000000	ladybug
-752	0.000194	tape player
+752	0.000000	tape player
 753	0.000000	hyena
-754	0.000027	wreck
-755	0.000001	reel
-756	0.000001	llama
-757	0.005702	doormat
-758	0.003215	carton
-759	0.000012	coral reef
-760	0.000031	table-tennis racquet
-761	0.000001	meerkat
+754	0.000001	wreck
+755	0.000018	reel
+756	0.000005	llama
+757	0.000002	doormat
+758	0.000059	carton
+759	0.000014	coral reef
+760	0.000007	table-tennis racquet
+761	0.000000	meerkat
 762	0.000000	scoter
-763	0.000014	corkscrew
-764	0.000000	tusker
-765	0.000010	crash helmet
-766	0.000096	electric fan
-767	0.000163	toyshop
-768	0.000003	half track
-769	0.000062	paper towel
-770	0.000068	digital clock
-771	0.000001	Border collie
-772	0.000054	basketball
-773	0.000007	maillot
-774	0.000020	goldfinch
-775	0.000051	breastplate
-776	0.004348	web site
-777	0.000015	organ
-778	0.000066	lawn mower
-779	0.000005	prison
-780	0.000009	sports car
-781	0.000005	guillotine
+763	0.000000	corkscrew
+764	0.000005	tusker
+765	0.000064	crash helmet
+766	0.000039	electric fan
+767	0.000000	toyshop
+768	0.000000	half track
+769	0.000044	paper towel
+770	0.000001	digital clock
+771	0.000003	Border collie
+772	0.000000	basketball
+773	0.000222	maillot
+774	0.000000	goldfinch
+775	0.000002	breastplate
+776	0.000001	web site
+777	0.000000	organ
+778	0.000008	lawn mower
+779	0.000001	prison
+780	0.000003	sports car
+781	0.000000	guillotine
 782	0.000000	platypus
 783	0.000000	bittern
-784	0.000013	wire cutter
+784	0.000000	wire cutter
 785	0.000000	limpkin
-786	0.000046	fountain pen
-787	0.000001	green mamba
+786	0.000000	fountain pen
+787	0.000000	green mamba
 788	0.000000	Angora
-789	0.000000	miniature poodle
-790	0.000067	maze
-791	0.000120	pajama
-792	0.014879	purse
-793	0.000014	parachute
-794	0.000037	matchstick
+789	0.000005	miniature poodle
+790	0.000035	maze
+791	0.000000	pajama
+792	0.000007	purse
+793	0.000031	parachute
+794	0.000001	matchstick
 795	0.000000	puffer
-796	0.000039	swimming trunks
+796	0.000010	swimming trunks
 797	0.000001	volcano
 798	0.000000	ptarmigan
-799	0.000000	armadillo
-800	0.000246	cuirass
-801	0.000002	frying pan
-802	0.000437	scale
+799	0.000003	armadillo
+800	0.000001	cuirass
+801	0.000000	frying pan
+802	0.000002	scale
 803	0.000000	leatherback turtle
-804	0.000398	chainlink fence
-805	0.000107	tile roof
-806	0.000028	pretzel
-807	0.000001	burrito
+804	0.000067	chainlink fence
+805	0.000001	tile roof
+806	0.000001	pretzel
+807	0.000000	burrito
 808	0.000000	Euopean hoopoe
-809	0.000425	cassette
-810	0.000012	maraca
-811	0.004278	rule
-812	0.000874	jersey
-813	0.000021	sunscreen
+809	0.000000	cassette
+810	0.000002	maraca
+811	0.000005	rule
+812	0.000003	jersey
+813	0.000409	sunscreen
 814	0.000001	espresso
-815	0.000048	vase
-816	0.000001	gorilla
+815	0.000003	vase
+816	0.000000	gorilla
 817	0.000000	spider monkey
 818	0.000000	komondor
-819	0.000021	washer
-820	0.000003	Arabian camel
-821	0.000001	tiger cat
+819	0.000292	washer
+820	0.000001	Arabian camel
+821	0.000000	tiger cat
 822	0.000000	grey fox
-823	0.000847	hamper
-824	0.000003	academic gown
-825	0.000064	table-tennis table
+823	0.000002	hamper
+824	0.000002	academic gown
+825	0.000002	table-tennis table
 826	0.000000	Rhodesian ridgeback
-827	0.000043	monarch
-828	0.000010	pizza
+827	0.000000	monarch
+828	0.000000	pizza
 829	0.000000	dowitcher
-830	0.000001	eft
-831	0.000001	trench coat
-832	0.000003	piggy bank
-833	0.000011	espresso maker
-834	0.000008	rhinoceros beetle
-835	0.000039	magpie
-836	0.000002	pot
-837	0.000001	tub
-838	0.043301	jigsaw puzzle
+830	0.000000	eft
+831	0.000000	trench coat
+832	0.000216	piggy bank
+833	0.000002	espresso maker
+834	0.000000	rhinoceros beetle
+835	0.000089	magpie
+836	0.000000	pot
+837	0.000011	tub
+838	0.000001	jigsaw puzzle
 839	0.000000	sturgeon
-840	0.000010	cash machine
-841	0.000007	liner
-842	0.000001	mallet
+840	0.000000	cash machine
+841	0.000001	liner
+842	0.000300	mallet
 843	0.000000	jacamar
-844	0.000108	toilet seat
-845	0.000031	jackfruit
+844	0.000061	toilet seat
+845	0.000000	jackfruit
 846	0.000000	goldfish
-847	0.000002	Yorkshire terrier
-848	0.000000	flat-coated retriever
-849	0.000003	fur coat
+847	0.000000	Yorkshire terrier
+848	0.000004	flat-coated retriever
+849	0.000001	fur coat
 850	0.000000	echidna
-851	0.000734	umbrella
-852	0.000017	nacho
-853	0.000015	whiskey jug
-854	0.000002	spindle
-855	0.236611	comic book
-856	0.000001	cougar
-857	0.000002	disk brake
-858	0.000001	hognose snake
-859	0.000283	sarong
-860	0.000005	head cabbage
-861	0.000035	banana
-862	0.000013	screw
-863	0.000006	toucan
+851	0.002059	umbrella
+852	0.000000	nacho
+853	0.000000	whiskey jug
+854	0.000001	spindle
+855	0.000000	comic book
+856	0.000000	cougar
+857	0.000000	disk brake
+858	0.000000	hognose snake
+859	0.000001	sarong
+860	0.000001	head cabbage
+861	0.000000	banana
+862	0.000000	screw
+863	0.000004	toucan
 864	0.000000	Saint Bernard
-865	0.000016	safe
-866	0.000002	African chameleon
+865	0.000001	safe
+866	0.000000	African chameleon
 867	0.000000	potter's wheel
-868	0.000003	cowboy boot
-869	0.000007	barrel
+868	0.000010	cowboy boot
+869	0.000027	barrel
 870	0.000001	basenji
-871	0.000077	gas pump
+871	0.000002	gas pump
 872	0.000000	squirrel monkey
-873	0.000002	cock
-874	0.000087	tennis ball
-875	0.001908	fire screen
-876	0.000157	bannister
-877	0.000013	pool table
-878	0.000041	pole
-879	0.000006	leaf beetle
-880	0.000102	bottlecap
-881	0.000007	trimaran
+873	0.000005	cock
+874	0.000043	tennis ball
+875	0.000000	fire screen
+876	0.000004	bannister
+877	0.000000	pool table
+878	0.000008	pole
+879	0.000000	leaf beetle
+880	0.000000	bottlecap
+881	0.000010	trimaran
 882	0.000000	American alligator
-883	0.000029	loupe
-884	0.000203	bow tie
+883	0.000001	loupe
+884	0.000033	bow tie
 885	0.000000	hip
-886	0.000030	knee pad
-887	0.000007	goblet
-888	0.000017	hourglass
+886	0.000615	knee pad
+887	0.000001	goblet
+888	0.000001	hourglass
 889	0.000001	siamang
-890	0.000001	fiddler crab
-891	0.000116	electric guitar
+890	0.000000	fiddler crab
+891	0.000001	electric guitar
 892	0.000000	red-breasted merganser
-893	0.000000	dingo
-894	0.000002	vulture
-895	0.000002	entertainment center
+893	0.000001	dingo
+894	0.000001	vulture
+895	0.000000	entertainment center
 896	0.000000	patas
-897	0.000071	loudspeaker
+897	0.000037	loudspeaker
 898	0.000000	hippopotamus
-899	0.000015	syringe
-900	0.000001	sidewinder
-901	0.000313	ski
-902	0.000002	horned viper
-903	0.000002	bagel
-904	0.000054	forklift
-905	0.000001	sandbar
-906	0.000000	crane
-907	0.000002	king crab
-908	0.000008	macaw
-909	0.000004	binoculars
-910	0.000004	Petri dish
-911	0.000020	car mirror
+899	0.000000	syringe
+900	0.000000	sidewinder
+901	0.000000	ski
+902	0.000000	horned viper
+903	0.000000	bagel
+904	0.000000	forklift
+905	0.000024	sandbar
+906	0.000336	crane
+907	0.000000	king crab
+908	0.000000	macaw
+909	0.000402	binoculars
+910	0.000000	Petri dish
+911	0.000022	car mirror
 912	0.000000	black widow
-913	0.000005	minivan
-914	0.000009	bulletproof vest
-915	0.000016	abacus
-916	0.000027	manhole cover
-917	0.000000	African elephant
-918	0.000194	short pants
-919	0.000021	dalmatian
-920	0.000007	projector
+913	0.000016	minivan
+914	0.000004	bulletproof vest
+915	0.000000	abacus
+916	0.000005	manhole cover
+917	0.000017	African elephant
+918	0.000012	short pants
+919	0.000001	dalmatian
+920	0.000004	projector
 921	0.000000	garter snake
 922	0.000001	penlight
 923	0.000000	slug
-924	0.000001	Eskimo dog
-925	0.000012	hay
-926	0.000329	bell cote
-927	0.000023	knot
-928	0.006776	chest
-929	0.000030	gravel
-930	0.000004	CD player
-931	0.000096	pinwheel
-932	0.000124	shower curtain
+924	0.000000	Eskimo dog
+925	0.000052	hay
+926	0.000001	bell cote
+927	0.000001	knot
+928	0.000001	chest
+929	0.000060	gravel
+930	0.000005	CD player
+931	0.000058	pinwheel
+932	0.000007	shower curtain
 933	0.000000	ibex
-934	0.000009	oxcart
-935	0.000001	European fire salamander
-936	0.000502	flash memory
-937	0.000008	Indian cobra
-938	0.000125	mask
-939	0.000076	beer bottle
-940	0.000003	hummingbird
-941	0.000298	castle
+934	0.000000	oxcart
+935	0.000000	European fire salamander
+936	0.000002	flash memory
+937	0.000000	Indian cobra
+938	0.000028	mask
+939	0.000000	beer bottle
+940	0.000000	hummingbird
+941	0.000000	castle
 942	0.000001	golden retriever
-943	0.000055	crossword puzzle
-944	0.000008	can opener
-945	0.000023	trackball
+943	0.000002	crossword puzzle
+944	0.000001	can opener
+945	0.000005	trackball
 946	0.000000	Tibetan mastiff
 947	0.000000	oystercatcher
-948	0.000236	bearskin
-949	0.000006	night snake
-950	0.000027	grocery store
-951	0.000191	rubber eraser
+948	0.000000	bearskin
+949	0.000000	night snake
+950	0.000000	grocery store
+951	0.000006	rubber eraser
 952	0.000000	tailed frog
-953	0.000001	snail
-954	0.000001	raccoon
-955	0.000001	dung beetle
+953	0.000000	snail
+954	0.000000	raccoon
+955	0.000000	dung beetle
 956	0.000000	marmot
-957	0.000042	lifeboat
-958	0.000009	lakeside
-959	0.000128	sweatshirt
-960	0.000029	sleeping bag
+957	0.000000	lifeboat
+958	0.000089	lakeside
+959	0.000001	sweatshirt
+960	0.000009	sleeping bag
 961	0.000000	cheeseburger
-962	0.000008	file
-963	0.000008	teapot
-964	0.000009	strainer
-965	0.000004	golf ball
-966	0.000005	coho
-967	0.000069	cauliflower
-968	0.000001	walking stick
+962	0.000015	file
+963	0.000079	teapot
+964	0.000000	strainer
+965	0.001785	golf ball
+966	0.000001	coho
+967	0.000000	cauliflower
+968	0.000000	walking stick
 969	0.000000	cicada
-970	0.000001	aircraft carrier
-971	0.000014	hammer
-972	0.000178	television
-973	0.058821	laptop
-974	0.000001	black and gold garden spider
-975	0.000002	mountain tent
-976	0.000251	hook
-977	0.000025	lemon
-978	0.000010	baseball
-979	0.000005	dining table
-980	0.000023	parallel bars
-981	0.000078	abaya
-982	0.000033	scimitar
-983	0.000002	ice maker
+970	0.000000	aircraft carrier
+971	0.000008	hammer
+972	0.000055	television
+973	0.000013	laptop
+974	0.000000	black and gold garden spider
+975	0.000096	mountain tent
+976	0.000010	hook
+977	0.000000	lemon
+978	0.000024	baseball
+979	0.000000	dining table
+980	0.000001	parallel bars
+981	0.000039	abaya
+982	0.000013	scimitar
+983	0.000000	ice maker
 984	0.000001	clam
-985	0.000096	palace
-986	0.000001	Madagascar cat
-987	0.000000	great white shark
-988	0.000003	dragonfly
-989	0.000004	shower cap
-990	0.000004	long-horned beetle
-991	0.000003	warplane
-992	0.000005	ant
-993	0.000001	damselfly
+985	0.000000	palace
+986	0.000000	Madagascar cat
+987	0.000002	great white shark
+988	0.000000	dragonfly
+989	0.000001	shower cap
+990	0.000000	long-horned beetle
+991	0.000122	warplane
+992	0.000000	ant
+993	0.000000	damselfly
 994	0.000001	breakwater
-995	0.000000	tiger shark
-996	0.000016	digital watch
+995	0.000003	tiger shark
+996	0.000007	digital watch
 997	0.000000	whiptail
 998	0.000000	warthog
+MAX: 	0.969888	soccer ball
